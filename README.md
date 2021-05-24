@@ -3,7 +3,7 @@
 
 ---
 
-Headings:
+🚀 Headings:
 
 # Heading 1
 
@@ -18,24 +18,25 @@ Headings:
 ###### Heading 6
 
 
-Italics: _This text is italic._
+🚀 Italics: _This text is italic._
 
-Bold: **This text is bold.**
+🚀 Bold: **This text is bold.**
 
-Strikethrough: ~~This text is strikethrough.~~
+🚀 Strikethrough: ~~This text is strikethrough.~~
 
-A horizontal rule:
+🚀 A horizontal rule:
 
 ---
 
-Blockquote:
+🚀 Blockquote:
 > This is a quote.
 
 
-Links:
+🚀 Links:
 [Jalal Mallah Homepage](https://jalalmallah.io 'My Portfolio')
 
-Unordered list:
+
+🚀 Unordered list:
 - Item 1
 - Item 2
 - Item 3
@@ -43,20 +44,20 @@ Unordered list:
   - Nested item 2
 
 
-Ordered list:
+🚀 Ordered list:
 1. Item 1
 1. Item 2
 1. Item 3
 
 
-Inline code block: `console.log('Markdown is awesome!')`
+🚀 Inline code block: `console.log('Markdown is awesome!')`
 
 
-Images:
+🚀 Images:
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 
-GitHub code block:
+🚀 GitHub code block:
 ```javascript
 const person = {
   firstName: 'Jalal',
@@ -68,14 +69,14 @@ console.log(person);
 ```
 
 
-GitHub tables:
+🚀 GitHub tables:
 | Name     | Email        |
 | -------- | ------------ |
 | John Doe | john@doe.com |
 | John Doe | john@doe.com |
 
 
-GitHub tasklist:
+🚀 GitHub tasklist:
 - [x] Task #1
 - [x] Task #2
 - [ ] Task #3
